@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
