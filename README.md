@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0283-move-zeroes) |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0268-missing-number) |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0268-missing-number) |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
@@ -52,4 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
