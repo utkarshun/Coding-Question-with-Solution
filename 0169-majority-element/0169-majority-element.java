@@ -16,21 +16,21 @@ class Solution {
         int n=nums.length;
         int count=0;
         int ele=0;
-        for(int i=0;i<n;i++){
+        for(int num:nums){
             if(count==0){
                 count=1;
-                ele=nums[i];
+                ele=num;
             }
-            else if(nums[i]==ele){
-                count+=1;
+            else if(num==ele){
+                count++;
             }
             else{
                 count--;
             }
         }
         int count1=0;
-        for(int i=0;i<n;i++){
-            if(nums[i]==ele){
+        for(int num:nums){
+            if(num==ele){
                 count1++;
             }
         }
