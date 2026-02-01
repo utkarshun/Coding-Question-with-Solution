@@ -1,17 +1,19 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
         stack=[]
-        word=""
+        words=""
         for ch in s:
             if ch!=' ':
-                word+=ch
+                words+=ch
             else:
-                if word:
-                    stack.append(word)
-                    word=""
-        if word:
-            stack.append(word)
+                if words:
+                    stack.append(words)
+                    words=""
+        if words:
+            stack.append(words)
         result=[]
         while stack:
             result.append(stack.pop())
-        return " ".join(result)
+            if stack:
+                result.append(" ")
+        return "".join(result)
