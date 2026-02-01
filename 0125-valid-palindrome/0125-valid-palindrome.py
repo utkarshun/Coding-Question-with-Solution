@@ -15,7 +15,7 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         i,j=0,len(s)-1
-        while (i<j):
+        while(i<j):
             ci,cj=s[i],s[j]
             if not ci.isalnum():
                 i+=1
