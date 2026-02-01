@@ -5,15 +5,15 @@ class Solution {
         map.put(')','(');
         map.put('}','{');
         map.put(']','[');
-        for(char c:s.toCharArray()){
-            if(map.containsKey(c)){
+        for(char ch:s.toCharArray()){
+            if(map.containsKey(ch)){
                 char top=st.isEmpty()?'#':st.pop();
-                if(top!=map.get(c)){
+                if(top!=map.get(ch)){
                     return false;
                 }
             }
             else{
-                st.push(c);
+                st.push(ch);
             }
         }
         return st.isEmpty();
