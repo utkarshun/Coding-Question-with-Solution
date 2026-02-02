@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0389-find-the-difference) |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0389-find-the-difference) |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0274-h-index) |
+| [0389-find-the-difference](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0389-find-the-difference) |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
