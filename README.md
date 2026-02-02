@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
