@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 ## Two Pointers
 |  |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1757-recyclable-and-low-fat-products) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
