@@ -22,15 +22,15 @@ class Solution {
                 ele=num;
             }
             else if(num==ele){
-                count++;
+                count+=1;
             }
             else{
                 count--;
             }
         }
         int count1=0;
-        for(int num:nums){
-            if(num==ele){
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]==ele){
                 count1++;
             }
         }
