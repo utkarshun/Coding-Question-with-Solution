@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
