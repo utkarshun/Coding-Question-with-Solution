@@ -16,6 +16,7 @@ class Solution:
         for i,present in enumerate(seen):
             if not present:
                 return i
+
 # class Solution:
 #     def missingNumber(self, nums: List[int]) -> int:
 #         n=len(nums)
