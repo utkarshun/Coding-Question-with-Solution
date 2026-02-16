@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
@@ -231,9 +232,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0560-subarray-sum-equals-k) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
