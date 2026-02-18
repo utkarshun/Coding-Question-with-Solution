@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0053-maximum-subarray) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0088-merge-sorted-array) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0055-jump-game) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0232-implement-queue-using-stacks) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
