@@ -5,7 +5,6 @@ class Solution {
         String high=strs[strs.length-1];
         int len=Math.min(low.length(),high.length());
         StringBuilder str=new StringBuilder();
-
         for(int i=0;i<len;i++){
             if(low.charAt(i)!=high.charAt(i)){
                 break;
@@ -14,6 +13,6 @@ class Solution {
                 str.append(low.charAt(i));
             }
         }
-        return new String(str);
+        return str.toString();
     }
 }
