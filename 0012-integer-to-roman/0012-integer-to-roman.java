@@ -9,6 +9,6 @@ class Solution {
                 str.append(st[i]);
             }
         }
-        return new String(str);
+        return str.toString();
     }
 }
