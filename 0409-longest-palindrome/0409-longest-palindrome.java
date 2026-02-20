@@ -8,7 +8,7 @@ class Solution {
             }
             else{
                 upper[c-'A']++;
-            } 
+            }
         }
         int count=0;
         boolean odd=false;
