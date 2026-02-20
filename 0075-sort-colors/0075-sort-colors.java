@@ -23,8 +23,8 @@ class Solution {
         while(mid<=high){
             if(nums[mid]==0){
                 swap(nums,low,mid);
-                low++;
-                mid++;
+                low+=1;
+                mid+=1;
             }
             else if(nums[mid]==1){
                 mid++;
@@ -36,8 +36,8 @@ class Solution {
         }
     }
     private void swap(int[] nums,int i,int j){
-        int temp=nums[i];
-        nums[i]=nums[j];
-        nums[j]=temp;
-    }
+            int temp=nums[i];
+            nums[i]=nums[j];
+            nums[j]=temp;
+        }
 }
