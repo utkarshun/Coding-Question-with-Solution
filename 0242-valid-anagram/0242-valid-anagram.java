@@ -22,7 +22,9 @@ class Solution {
         for(int i=0;i<t.length();i++){
             int idx=t.charAt(i)-'a';
             freq[idx]--;
-            if(freq[idx]<0) return false;
+            if(freq[idx]<0){
+                return false;
+            }
         }
         return true;
     }
