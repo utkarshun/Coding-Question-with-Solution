@@ -6,9 +6,9 @@ class Solution:
         sum=0
         while(left<right):
             sum=arr[left][0]+arr[right][0]
-            if(sum==target):
+            if sum==target:
                 return [arr[left][1],arr[right][1]]
-            elif(sum<target):
+            elif sum<target:
                 left+=1
             else:
                 right-=1
