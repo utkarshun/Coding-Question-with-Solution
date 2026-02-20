@@ -7,7 +7,7 @@ class Solution {
         for(int i=0;i<t.length();i++){
             int idx=t.charAt(i)-'a';
             freq[idx]--;
-            if(freq[idx]<0) return t.charAt(i);
+            if(freq[idx]<0) return t.charAt(i);  
         }
         return ' ';
     }
