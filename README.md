@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
 |  |
 | ------- |
