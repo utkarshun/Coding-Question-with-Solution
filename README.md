@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0739-daily-temperatures) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
