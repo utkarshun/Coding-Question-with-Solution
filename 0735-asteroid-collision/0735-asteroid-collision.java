@@ -6,7 +6,7 @@ class Solution {
             int a=asteroids[i];
             if(a>0) st.push(a);
             else{
-                while(!st.isEmpty() && st.peek()>0 && st.peek()<Math.abs(asteroids[i])){
+                while(!st.isEmpty() && st.peek()>0 && st.peek()<Math.abs(a)){
                     st.pop();
                 }
                 if(!st.isEmpty() && st.peek()==Math.abs(a)){
@@ -17,7 +17,7 @@ class Solution {
                 }
             }
         }
-        int [] res=new int[st.size()];
+        int[] res=new int[st.size()];
         for(int i=res.length-1;i>=0;i--){
             res[i]=st.pop();
         }
