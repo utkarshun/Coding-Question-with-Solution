@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0274-h-index) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -287,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0901-online-stock-span) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
