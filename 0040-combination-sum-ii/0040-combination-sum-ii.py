@@ -17,24 +17,45 @@
 #                 ds.pop()
 #         findCombinationSum2(0,target)
 #         return ans
+# class Solution:
+    # def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
+    #     candidates.sort()
+    #     result=[]
+    #     self.helper(candidates,0,target,[],result)
+    #     return result
+
+    # def helper(self,nums,ind,target,temp,result):
+    #     if target==0:
+    #         result.append(temp[:])
+    #         return
+    #     if ind==len(nums):
+    #         return
+    #     if nums[ind]<=target:
+    #         temp.append(nums[ind])
+    #         self.helper(nums,ind+1,target-nums[ind],temp,result)
+    #         temp.pop()
+    #     while ind+1 <len(nums) and nums[ind]==nums[ind+1]:
+    #         ind+=1
+    #     self.helper(nums,ind+1,target,temp,result)
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
         candidates.sort()
-        result=[]
-        self.helper(candidates,0,target,[],result)
-        return result
+        ans = []
+        self.helper(0, candidates, target, ans, [])
+        return ans
 
-    def helper(self,nums,ind,target,temp,result):
-        if target==0:
-            result.append(temp[:])
+    def helper(self, ind, arr, target, ans, ds):
+        if target == 0:
+            ans.append(ds[:])
             return
-        if ind==len(nums):
-            return
-        if nums[ind]<=target:
-            temp.append(nums[ind])
-            self.helper(nums,ind+1,target-nums[ind],temp,result)
-            temp.pop()
-        while ind+1 <len(nums) and nums[ind]==nums[ind+1]:
-            ind+=1
-        self.helper(nums,ind+1,target,temp,result)
 
+        for i in range(ind, len(arr)):
+            if i > ind and arr[i] == arr[i-1]:
+                continue
+
+            if arr[i] > target:
+                break
+
+            ds.append(arr[i])
+            self.helper(i+1, arr, target-arr[i], ans, ds)
+            ds.pop()
