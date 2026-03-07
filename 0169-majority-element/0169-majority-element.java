@@ -25,7 +25,7 @@ class Solution {
                 count+=1;
             }
             else{
-                count--;
+                count-=1;
             }
         }
         int count1=0;
