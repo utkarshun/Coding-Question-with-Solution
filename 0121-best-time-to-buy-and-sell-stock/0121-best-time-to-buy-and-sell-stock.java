@@ -20,9 +20,9 @@ class Solution {
         int maxi=0;
         int i=0;
         for(int j=1;j<prices.length;j++){
-            if(prices[i]<prices[j]){
+            if(prices[j]>prices[i]){
                 diff=prices[j]-prices[i];
-                maxi=Math.max(diff,maxi);
+                maxi=Math.max(maxi,diff);
             }
             else{
                 i=j;
