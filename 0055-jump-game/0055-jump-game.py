@@ -6,11 +6,22 @@
 #             if(i+nums[i]>=finalposition):
 #                 finalposition=i
 #         return finalposition==0
+# class Solution:
+#     def canJump(self, nums: List[int]) -> bool:
+#         maxReach=0
+#         for i in range(len(nums)):
+#             if i>maxReach:
+#                 return False
+#             maxReach=max(maxReach,i+nums[i])
+#         return True
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
-        maxReach=0
+        maxReach = 0
+        
         for i in range(len(nums)):
-            if i>maxReach:
+            if i <= maxReach:
+                maxReach = max(maxReach, i + nums[i])
+            else:
                 return False
-            maxReach=max(maxReach,i+nums[i])
+        
         return True
