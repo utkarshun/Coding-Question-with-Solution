@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
 | ------- |
