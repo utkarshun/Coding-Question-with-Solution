@@ -6,8 +6,9 @@ class Solution:
             if ch!=' ':
                 words+=ch
             else:
-                stack.append(words)
-                words=""
+                if words:
+                    stack.append(words)
+                    words=""
         if words:
             stack.append(words)
         result=[]
