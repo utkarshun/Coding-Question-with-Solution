@@ -1,20 +1,23 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        stack=[]
-        word_list=[]
-        # words=""
+        stack = []
+        word_list = []
+
         for ch in s:
-            if ch!=' ':
+            if ch != ' ':
                 word_list.append(ch)
             else:
                 if word_list:
                     stack.append("".join(word_list))
-                    word_list=[]
+                    word_list = []
+
         if word_list:
-            stack.append("".join(word_list))
-        result=[]
+            stack.append("".join(word_list))   # ✅ fixed
+
+        result = []
         while stack:
             result.append(stack.pop())
             if stack:
                 result.append(" ")
+
         return "".join(result)
