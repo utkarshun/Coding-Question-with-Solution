@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0503-next-greater-element-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0692-top-k-frequent-words) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0455-assign-cookies) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
