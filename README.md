@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0485-max-consecutive-ones) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0416-partition-equal-subset-sum) |
 ## Greedy
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0064-minimum-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/utkarshun/Coding-Question-with-Solution/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
