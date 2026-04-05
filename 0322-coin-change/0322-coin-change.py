@@ -12,7 +12,7 @@
 #                 return dp[ind][target]
 #             notTake=f(ind-1,target)
 #             take=float('inf')
-#             if coins[ind]<=target:
+#             if(target>=coins[ind]):
 #                 take=1+f(ind,target-coins[ind])
 #             dp[ind][target]=min(notTake,take)
 #             return dp[ind][target]
@@ -31,10 +31,11 @@ class Solution:
             for target in range(amount+1):
                 notTake=dp[ind-1][target]
                 take=float('inf')
-                if coins[ind]<=target:
+                if (coins[ind]<=target):
                     take=1+dp[ind][target-coins[ind]]
-                dp[ind][target]=min(take,notTake)
+                dp[ind][target]=min(notTake,take)
         ans=dp[n-1][amount]
         return -1 if ans==float('inf') else ans
+
 
         
