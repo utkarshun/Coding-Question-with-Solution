@@ -21,10 +21,8 @@ class RandomizedSet:
         self.list.pop()
         del self.map[val]
         return True
-        
     def getRandom(self) -> int:
         return random.choice(self.list)
-        
 
 
 # Your RandomizedSet object will be instantiated and called as such:
